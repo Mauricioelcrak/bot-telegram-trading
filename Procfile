@@ -1,1 +1,2 @@
-worker: python bot.py
+worker: python mauro_trading_bot.py
+
